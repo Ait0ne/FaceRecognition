@@ -1,0 +1,7 @@
+.Tilt {
+    height: 80px;
+    width: 80px;
+    background:linear-gradient(to right, rgba(59, 202, 237, 1), rgba(54, 110, 227,1) 120%);
+    align-items: center; 
+    border-radius: 2.5rem;
+} 
